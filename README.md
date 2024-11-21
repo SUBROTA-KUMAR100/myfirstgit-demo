@@ -1,4 +1,4 @@
 # myfirstgit-demo
 This is my first Git Repository.
 <br>
-Author - Subrota Kumar
+Author - Subrota (POLASH)
